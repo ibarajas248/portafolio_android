@@ -24,17 +24,17 @@ Desarrollador Android enfocado en la creación de aplicaciones móviles funciona
 
 ---
 
-### 3. Nombre del proyecto
+### 3. Comparador de precios
 **Descripción:** Breve explicación del proyecto, reto técnico resuelto y valor del sistema.  
 **Tecnologías:** Kotlin, Jetpack Compose, CameraX, ML Kit  
 **Enlace al repositorio:** [Ver proyecto](https://github.com/tuusuario/tu-proyecto)  
-**Demo / APK / Video:** [Ver demo](https://tuenlace.com)
+**Demo / APK / Video:** [Ver demo](https://drive.google.com/file/d/19Ma6b8PPyR9WrLezfpNjN-KGeVpXWk59/view?usp=sharing)
 
 
 
 ---
 
-### 4. Nombre del proyecto
+### 4. Inventario
 **Descripción:** Aplicación de gestión de stock diseñada para optimizar el control de activos en tiempo real mediante persistencia de datos local. El sistema resuelve el reto de la integridad de la información en entornos sin conexión mediante una arquitectura reactiva (MVVM). Incluye una interfaz de navegación híbrida que integra un Navigation Drawer para gestión administrativa y un Bottom Navigation Bar para acceso rápido, permitiendo el cálculo automático del valor del patrimonio y búsqueda dinámica de productos.   
 **Tecnologías:** Kotlin, Retrofit, API REST, Firebase  
 **Enlace al repositorio:** [Ver proyecto](https://github.com/ibarajas248/InventarioSQLite) 
