@@ -30,13 +30,18 @@ Desarrollador Android enfocado en la creación de aplicaciones móviles funciona
 **Enlace al repositorio:** [Ver proyecto](https://github.com/tuusuario/tu-proyecto)  
 **Demo / APK / Video:** [Ver demo](https://tuenlace.com)
 
+
+
 ---
 
 ### 4. Nombre del proyecto
-**Descripción:** Breve explicación del proyecto.  
+**Descripción:** Aplicación de gestión de stock diseñada para optimizar el control de activos en tiempo real mediante persistencia de datos local. El sistema resuelve el reto de la integridad de la información en entornos sin conexión mediante una arquitectura reactiva (MVVM). Incluye una interfaz de navegación híbrida que integra un Navigation Drawer para gestión administrativa y un Bottom Navigation Bar para acceso rápido, permitiendo el cálculo automático del valor del patrimonio y búsqueda dinámica de productos.   
 **Tecnologías:** Kotlin, Retrofit, API REST, Firebase  
-**Enlace al repositorio:** [Ver proyecto](https://github.com/tuusuario/tu-proyecto)  
-**Demo / APK / Video:** [Ver demo](https://tuenlace.com)
+**Enlace al repositorio:** [Ver proyecto](https://github.com/ibarajas248/InventarioSQLite) 
+**Demo / APK / Video:** [Ver demo](https://drive.google.com/file/d/1T459CuK62Yn11MrP3bP-OmthT_07kt5U/view?usp=sharing)
+
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/b2a04088-6605-41f7-bf54-ff92f50fffa0" />
+
 
 ---
 
